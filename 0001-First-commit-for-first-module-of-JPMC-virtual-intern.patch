@@ -1,0 +1,21 @@
+From cc52ecf1ef7868cdb4bf5f0ca5f160b1203b115a Mon Sep 17 00:00:00 2001
+From: v-qutran <v-qutran@microsoft.com>
+Date: Tue, 28 Jan 2020 13:18:35 -0800
+Subject: [PATCH] First commit for first module of JPMC virtual internship.
+ Edited client code for first module.
+
+---
+ JPMC-tech-task-1-py3 | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 160000 JPMC-tech-task-1-py3
+
+diff --git a/JPMC-tech-task-1-py3 b/JPMC-tech-task-1-py3
+new file mode 160000
+index 0000000..b50b6a3
+--- /dev/null
++++ b/JPMC-tech-task-1-py3
+@@ -0,0 +1 @@
++Subproject commit b50b6a398f1a80d89e65ba04b9cad6ceb16da3e8
+-- 
+2.20.1
+
