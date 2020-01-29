@@ -22,6 +22,7 @@ import urllib.request
 import time
 import json
 import random
+import unittest
 
 # Server API URLs
 QUERY = "http://localhost:8080/query?id={}"
